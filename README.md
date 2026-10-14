@@ -1,5 +1,5 @@
 (http://sprint-04-woad.vercel.app/)
-Canlı Link: [Buraya Vercel Linkini Yapıştıracaksın]
+Canlı Link
 
 Kampüs Etkinlikleri - Sprint 4
 
